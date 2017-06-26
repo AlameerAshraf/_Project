@@ -57,28 +57,20 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* [Node.js](https://nodejs.org/en/) - The web framework used
+* [Angular 4](http://angularjs.blogspot.com.eg/2017/03/angular-400-now-available.html) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript (JS)
+* [Express](https://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+* [MongoDB](https://www.mongodb.com/) - NoSqlDB
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. 
 
 ## Authors
 
-* **Alameer Ashraf** - *Initial work* - [PurpleBooth](https://github.com/AlameerAshraf)
+* **Alameer Ashraf** - *Initial work* - [Alameer Ashraf Hassan](https://github.com/AlameerAshraf)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
